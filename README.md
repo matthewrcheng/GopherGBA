@@ -38,5 +38,8 @@
     - Add debugging features like memory viewers, breakpoints, and step-through execution.
 
 ### Resources:
-- **Gameboy Programming Manual (Pan Docs):** Detailed technical documentation on Gameboy hardware and software.
+- **Pan Docs:** https://gbdev.io/pandocs/
+- **Rust Guide:** https://rylev.github.io/DMG-01/public/book/cpu/register_data_instructions.html
+- **Test ROMs:** https://github.com/retrio/gb-test-roms
+- **Ultimate Game Boy Talk:** https://www.youtube.com/watch?v=HyzD8pNlpwI
 
